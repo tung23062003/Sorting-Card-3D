@@ -1,0 +1,58 @@
+{
+    "cards": [
+        {
+            "cardName": "Arbo",
+            "cardColor": "Red",
+            "rarity": "Legendary",
+            "imagePath": "Images/Arbo"
+        },
+        {
+            "cardName": "Kyukon",
+            "cardColor": "Yellow",
+            "rarity": "Epic",
+            "imagePath": "Images/Kyukon"
+        },
+        {
+            "cardName": "Lizardon",
+            "cardColor": "Blue",
+            "rarity": "Rare",
+            "imagePath": "Images/Lizardon"
+        },
+        {
+            "cardName": "Nidoking",
+            "cardColor": "Green",
+            "rarity": "Rare",
+            "imagePath": "Images/Nidoking"
+        },
+        {
+            "cardName": "Nidoran",
+            "cardColor": "Blue",
+            "rarity": "Epic",
+            "imagePath": "Images/Nidoran"
+        },
+        {
+            "cardName": "Poppo",
+            "cardColor": "Red",
+            "rarity": "Rare",
+            "imagePath": "Images/Poppo"
+        },
+        {
+            "cardName": "Ratta",
+            "cardColor": "Yellow",
+            "rarity": "Common",
+            "imagePath": "Images/Ratta"
+        },
+        {
+            "cardName": "Rokon",
+            "cardColor": "Green",
+            "rarity": "Common",
+            "imagePath": "Images/Rokon"
+        },
+        {
+            "cardName": "Sandpan",
+            "cardColor": "Red",
+            "rarity": "Common",
+            "imagePath": "Images/Sandpan"
+        }
+    ]
+}

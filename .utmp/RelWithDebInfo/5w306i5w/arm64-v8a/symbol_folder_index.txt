@@ -1,0 +1,1 @@
+C:\Users\tungn\Downloads\Card Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5w306i5w\obj\arm64-v8a

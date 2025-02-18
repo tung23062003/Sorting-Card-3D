@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a153296171c8844812775e35381690, type: 3}
+  m_Name: Player Card Data
+  m_EditorClassIdentifier: 
+  playerCardList:
+  - index: 0
+    cardName: Ratta
+    cardColor: Yellow
+    rarity: Common
+    imagePath: Images/Ratta
+  - index: 0
+    cardName: Rokon
+    cardColor: Green
+    rarity: Common
+    imagePath: Images/Rokon
+  - index: 0
+    cardName: Sandpan
+    cardColor: Red
+    rarity: Common
+    imagePath: Images/Sandpan
+  - index: 0
+    cardName: Lizardon
+    cardColor: Blue
+    rarity: Rare
+    imagePath: Images/Lizardon
+  - index: 0
+    cardName: Poppo
+    cardColor: Red
+    rarity: Rare
+    imagePath: Images/Poppo
+  cardQuantity:
+    commonQuantity: 3
+    rareQuantity: 3
+    epicQuantity: 0
+    legendQuantity: 0

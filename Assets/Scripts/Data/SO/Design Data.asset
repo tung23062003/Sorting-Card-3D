@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84fcb2d79687ed341bb4de926ba01670, type: 3}
+  m_Name: Design Data
+  m_EditorClassIdentifier: 
+  cardVisuals:
+  - name: Arbo
+    sprite: {fileID: 21300000, guid: 76600dc35c6f3a6439390de3b7adda0c, type: 3}
+  - name: Kyukon
+    sprite: {fileID: 21300000, guid: 6af5eeb10b08b5f4fb0c8e90887c5521, type: 3}
+  - name: Lizardon
+    sprite: {fileID: 21300000, guid: ad73b4d7b965c2f47885f6d76b95f7b0, type: 3}
+  - name: Nidoking
+    sprite: {fileID: 21300000, guid: 0fd5774b1f668a54a928035085945837, type: 3}
+  - name: Nidoran
+    sprite: {fileID: 21300000, guid: 3e51ee2026e7b4d4f8c4d57b44356662, type: 3}
+  - name: Poppo
+    sprite: {fileID: 21300000, guid: 8a9775b1dee52d74ba9619253c4a3510, type: 3}
+  - name: Ratta
+    sprite: {fileID: 21300000, guid: 51f4ec1b411e22b47ae937d313d681ba, type: 3}
+  - name: Rokon
+    sprite: {fileID: 21300000, guid: 3703f5ac0ae112447b61aa2d8c346826, type: 3}
+  - name: Sandpan
+    sprite: {fileID: 21300000, guid: 099be7fa802463d4fa12f0ee95800c3e, type: 3}

@@ -1,0 +1,39 @@
+{
+    "cards": [
+        {
+            "index": 0,
+            "cardName": "Ratta",
+            "cardColor": "Yellow",
+            "rarity": "Common",
+            "imagePath": "Images/Ratta"
+        },
+        {
+            "index": 0,
+            "cardName": "Rokon",
+            "cardColor": "Green",
+            "rarity": "Common",
+            "imagePath": "Images/Rokon"
+        },
+        {
+            "index": 0,
+            "cardName": "Sandpan",
+            "cardColor": "Red",
+            "rarity": "Common",
+            "imagePath": "Images/Sandpan"
+        },
+        {
+            "index": 0,
+            "cardName": "Lizardon",
+            "cardColor": "Blue",
+            "rarity": "Rare",
+            "imagePath": "Images/Lizardon"
+        },
+        {
+            "index": 0,
+            "cardName": "Poppo",
+            "cardColor": "Red",
+            "rarity": "Rare",
+            "imagePath": "Images/Poppo"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+C:/Users/tungn/Downloads/Card Game/.utmp/RelWithDebInfo/5w306i5w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/tungn/Downloads/Card Game/.utmp/RelWithDebInfo/5w306i5w/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/tungn/Downloads/Card Game/.utmp/RelWithDebInfo/5w306i5w/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/tungn/Downloads/Card Game/.utmp/RelWithDebInfo/5w306i5w/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/tungn/Downloads/Card Game/.utmp/RelWithDebInfo/5w306i5w/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
